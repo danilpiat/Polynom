@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Администратор.Lenovo-PC\Desktop\С ноута\repos\Project1\Project1\Source.cpp(207,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\Администратор.Lenovo-PC\Desktop\С ноута\repos\Project1\Project1\Source.cpp(220,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\Администратор.Lenovo-PC\Desktop\С ноута\repos\Project1\Project1\Source.cpp(230,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\Администратор.Lenovo-PC\Desktop\С ноута\repos\Project1\Project1\Source.cpp(244,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\Администратор.Lenovo-PC\Desktop\С ноута\repos\Project1\Project1\Source.cpp(260,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
+C:\Users\Администратор.Lenovo-PC\Desktop\С ноута\repos\Project1\Project1\Source.cpp(290,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : см. объявление "getch"
